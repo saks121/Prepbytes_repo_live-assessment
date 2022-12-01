@@ -1,0 +1,144 @@
+
+
+body{
+    background-color: cornflowerblue;
+}
+
+.nav{
+    
+        position: absolute;
+        top: 15px;
+        left: 874px;
+        text-align: center;
+        width: 400px;
+        height: 76px;
+    
+    
+}
+
+#nav1{
+    color:blueviolet;
+    text-decoration: underline;
+    position: absolute;
+    top:20px;
+    left:92px;
+    font-size: 20px;
+
+}
+
+#nav2{
+    color:blueviolet;
+    text-decoration: underline;
+    position: absolute;
+    top:20px;
+    left:199px;
+    font-size: 20px;
+}
+
+#nav3{
+    color:blueviolet;
+    text-decoration: underline;
+    position: absolute;
+    top:20px;
+    left:333px;
+    font-size: 20px;
+}
+
+.table1{
+    width:405px;
+    height:285px;
+    background-color: lightblue;
+    table-layout: 2px solid grey;
+    position: absolute;
+    top:100px;
+    left:16px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+#p{
+    position: absolute;
+    left:24px;
+    top:117px;
+}
+.table2{
+    width:405px;
+    height:285px;
+    background-color: lightblue;
+    position: absolute;
+    top:395px;
+    left:15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.image{
+    width:405px;
+    height:285px;
+    position: absolute;
+    top:101px;
+    left:433px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: url("https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644319377237-Article%20Banner%20Template_Google.png");
+    background-size: cover;
+}
+
+.image2{
+    width:405px;
+    height:285px;
+    position: absolute;
+    top:395px;
+    left:431px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: url("https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644319377237-Article%20Banner%20Template_Google.png");
+    background-size: cover;
+}
+
+.List{
+    width:405px;
+    height:285px;
+    background-color: lightblue;
+    color:black;
+    position: absolute;
+    top:100px;
+    left:853px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 21px;
+}
+
+.form{
+    width:405px;
+    height:285px;
+    background-color: lightblue;
+    position: absolute;
+    top:395px;
+    left:855px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    
+
+}
+#form_set{
+    position: absolute;
+    top: 21px;
+    left: 58px;
+    font-size: 20px;
+    text-align: center;
+  }
